@@ -6,7 +6,7 @@ Welcome to **Boaters Market** – the premier boating marketplace.
 
 ## What We Do
 
-- **Marketplace:** Buy, sell, and connect with the best boating gear and services.
+- **Marketplace:** Buy or sell boats easily - with no fees or additional costs!
 - **Community Reviews:** Honest insights from actual boaters—no sugarcoating.
 - **Resource Hub:** Stay informed with up-to-date tips, trends, and technical advice.
 
@@ -23,4 +23,4 @@ Have an idea or a fix? Open an issue or submit a pull request. We value real fee
 
 ---
 
-*Boaters Market – Real Talk for Real Boaters.*
+*Boaters Market – The Premier Boating Marketplace*
