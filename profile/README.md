@@ -1,6 +1,6 @@
 # Boaters Market
 
-[Visit boaterSMKT.com](https://boatersmkt.com)
+[Visit boatersmkt.com](https://boatersmkt.com)
 
 Welcome to **Boaters Market** – the real, straightforward hub for everything boating. No fluff, just the facts.
 
