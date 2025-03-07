@@ -2,7 +2,7 @@
 
 [Visit boatersmkt.com](https://boatersmkt.com)
 
-Welcome to **Boaters Market** – the real, straightforward hub for everything boating. No fluff, just the facts.
+Welcome to **Boaters Market** – the premier boating marketplace.
 
 ## What We Do
 
